@@ -74,6 +74,9 @@ Here’s an overview of the key files in the project:
 
 This structure ensures the app is modular, maintainable, and easy to extend.
 
+## App URL deployed on streamlit cloud
+- **`App url`**: https://ppf-tracker-app.streamlit.app/
+
 ## Future Enhancements
 
 The app is already packed with useful features, but here are some planned upgrades:
